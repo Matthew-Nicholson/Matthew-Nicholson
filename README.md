@@ -10,6 +10,7 @@ I'm a self-taught web developer who has been building web applications since 201
 * ✉️  You can contact me at [matthewn1991@gmail.com](mailto:matthewn1991@gmail.com)
 * 🚀  I'm currently working on [Goatedchess.com](http://goatedchess.com)
 * 🧠  I'm learning Typescript
+* ⚡  <- I have a baby! Me, a former baby, now has one. 🤯
 
 ### Skills
 
@@ -32,7 +33,7 @@ I'm a self-taught web developer who has been building web applications since 201
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/maple5574" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Matthew-Nicholson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matthew-eric-nicholson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Matthew-Nicholson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/matthew-eric-nicholson" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -41,7 +42,3 @@ I'm a self-taught web developer who has been building web applications since 201
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Matthew-Nicholson/chess-viewer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Nicholson&repo=chess-viewer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Matthew-Nicholson/nhl-scores" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Nicholson&repo=nhl-scores&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Matthew-Nicholson/nhl-scores-api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Nicholson&repo=nhl-scores-api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
