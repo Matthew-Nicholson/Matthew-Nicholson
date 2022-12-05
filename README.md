@@ -8,7 +8,7 @@ I'm a self-taught web developer who has been building web applications since 201
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [matthewn1991@gmail.com](mailto:matthewn1991@gmail.com)
-* 🚀  I'm currently working on [Goatedchess.com](http://goatedchess.com) and a [Chess PGN Viewer/Analysis Board](https://chess.mattnicholson.ca/)
+* 🚀  I'm currently working as a Software Engineer at Stay22.
 * 🧠  I'm learning Typescript and React
 * ⚡  <- I have a baby! Me, a former baby, now has one. 🤯
 
