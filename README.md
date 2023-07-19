@@ -8,7 +8,7 @@ I'm a self-taught web developer who has been building web applications since 201
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [matthewn1991@gmail.com](mailto:matthewn1991@gmail.com)
-* 🚀  I'm currently working as a Software Engineer at Stay22
+* 🚀  I'm currently working as a Software Engineer at Chess.com
 * 🧠  I specialize in JavaScript, TypeScript, React, and Vue
 
 ### Skills
