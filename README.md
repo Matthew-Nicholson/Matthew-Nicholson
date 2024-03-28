@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matt Nicholson
 ======================================================================================================================================
 
-Full Stack Web Developer
+Software Engineer
 ------------------------
 
-I'm a self-taught web developer who has been building web applications since 2018. I especially like working with Javascript, Vue.js, and Node.js. When I'm not learning or building something, I'm probably playing chess!
+I'm a software engineer who has been building web applications since 2018. I especially like working with Javascript, Vue.js, and Node.js. When I'm not learning or building something, I'm probably playing chess!
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [matthewn1991@gmail.com](mailto:matthewn1991@gmail.com)
-* 🚀  I'm currently working as a Software Engineer at Chess.com
+* 🚀  I'm currently working at Chess.com
 * 🧠  I specialize in JavaScript, TypeScript, React, and Vue
 
 ### Skills
